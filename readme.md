@@ -1,4 +1,4 @@
-# Pneumonia detection system
+# Pneumonia detection system using Tensorflow keras library
 
 The file structure for my dataset is
 <br>
@@ -15,3 +15,6 @@ VGG 16 https://www.mathworks.com/help/deeplearning/ref/vgg16.html#:~:text=VGG%2D
 ## Result :
 Pneumonia chest xray gets classified into Viral , Bacterial or Normal
 <img src= "Result.png" height = '400' width='600'>
+
+##Libraries used : 
+<a href = "https://www.tensorflow.org/guide/keras/train_and_evaluate"> Tensorflow library - Keras </a>
