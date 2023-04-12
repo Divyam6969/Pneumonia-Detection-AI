@@ -1,16 +1,5 @@
 # Pneumonia detection system
 
+The file structure for my dataset is
+![](filestructure.png)  
 
-File structure for my dataset it
-/chest_xray
-  /test
-    /NORMAL
-    /PNEUMONIA
-
-  /train
-    /NORMAL
-    /PNEUMONIA
-    
-  /val
-    /NORMAL
-    /PNEUMONIA
