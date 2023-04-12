@@ -1,6 +1,6 @@
 # Pneumonia detection system using Tensorflow keras library
 
-<h5>My model is trained to classify chest x-ray images into three categories: Normal, Viral Pneumonia, or Bacterial Pneumonia</h5>
+<h5>Pneumonia is a common and potentially life-threatening lung infection that affects millions of people worldwide. Early detection and treatment are critical for successful management of this disease. Artificial Intelligence (AI) and Machine Learning (ML) have shown tremendous promise in improving the accuracy and speed of medical diagnoses, including pneumonia detection. In this project, we will explore the application of AI and ML techniques to detect pneumonia from chest X-ray images. By developing a pneumonia detection model, we aim to assist healthcare professionals in providing accurate and timely diagnosis to patients, ultimately improving outcomes and saving lives.<br><br>My model is trained to classify chest x-ray images into three categories: Normal, Viral Pneumonia, or Bacterial Pneumonia</h5>
 <br>
 
 The file structure for my dataset is
