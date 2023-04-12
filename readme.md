@@ -1,6 +1,6 @@
 # Pneumonia detection system using Tensorflow keras library
 
-My model will classify an xray image to Normal , Viral Pneumonial or Bacterial Pneumonial
+<h5>My model is trained to classify chest x-ray images into three categories: Normal, Viral Pneumonia, or Bacterial Pneumonia</h5>
 <br>
 
 The file structure for my dataset is
