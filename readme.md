@@ -34,4 +34,6 @@ when i passed an image that was of Pneumonial viral category
 
 
 ## Kaggle notebook link for the project I made using another way (which classifies as NORMAL or PNEUMONIAL)
+<a href = "chest-xray-detection-kaggle.ipynb">chest-xray-detection-kaggle.ipynb</a>
+<br>
 https://www.kaggle.com/code/divyam6969/chest-xray-classifier
