@@ -1,5 +1,6 @@
 # Pneumonia detection system
 
 The file structure for my dataset is
-![](filestructure.png)  
-
+<br>
+<br>
+<img src= "filestructure.png" height = '300' width='250'>
