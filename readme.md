@@ -16,6 +16,7 @@ VGG 16 https://www.mathworks.com/help/deeplearning/ref/vgg16.html#:~:text=VGG%2D
 
 ## Result :
 Pneumonia chest xray gets classified into Viral , Bacterial or Normal
+<img src= "Result2.png" height = '400' width='800'>
 <img src= "Result.png" height = '400' width='800'>
 
 ## Libraries used : 
