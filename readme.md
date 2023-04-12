@@ -18,5 +18,9 @@ VGG 16 https://www.mathworks.com/help/deeplearning/ref/vgg16.html#:~:text=VGG%2D
 Pneumonia chest xray gets classified into Viral , Bacterial or Normal
 <img src= "Result.png" height = '400' width='800'>
 
-##Libraries used : 
+## Libraries used : 
 <a href = "https://www.tensorflow.org/guide/keras/train_and_evaluate"> Tensorflow library - Keras </a>
+
+
+#### kaggle link for project using another way (which classifies as NORMAL or PNEUMONIAL)
+https://www.kaggle.com/code/divyam6969/chest-xray-classifier
