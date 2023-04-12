@@ -1,6 +1,7 @@
 # Pneumonia detection system using Tensorflow keras library
 
-
+My model will classify an xray image to Normal , Viral Pneumonial or Bacterial Pneumonial
+<br>
 
 The file structure for my dataset is
 <br>
