@@ -16,13 +16,22 @@ you can download dataset from here <a href = "https://www.kaggle.com/datasets/pa
 VGG 16 https://www.mathworks.com/help/deeplearning/ref/vgg16.html#:~:text=VGG%2D16%20is%20a%20convolutional,%2C%20pencil%2C%20and%20many%20animals
 
 ## Result :
-Pneumonia chest xray gets classified into Viral , Bacterial or Normal
-<img src= "Result2.png" height = '400' width='800'>
+Pneumonia chest xrays gets classified into Viral , Bacterial or Normal
+
+when i passed an image of Pneumonial Bacterial Category
+<img src= "Result3.png" height = '500' width='900'>
+
+when i passed an image that was of normal category
+<img src= "Result2.png" height = '450' width='800'>
+
+when i passed an image that was of Pneumonial viral category
 <img src= "Result.png" height = '400' width='800'>
+
+
 
 ## Libraries used : 
 <a href = "https://www.tensorflow.org/guide/keras/train_and_evaluate"> Tensorflow library - Keras </a>
 
 
-#### kaggle link for project using another way (which classifies as NORMAL or PNEUMONIAL)
+## Kaggle notebook link for the project I made using another way (which classifies as NORMAL or PNEUMONIAL)
 https://www.kaggle.com/code/divyam6969/chest-xray-classifier
