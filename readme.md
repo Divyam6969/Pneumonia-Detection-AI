@@ -18,14 +18,19 @@ VGG 16 https://www.mathworks.com/help/deeplearning/ref/vgg16.html#:~:text=VGG%2D
 ## Result :
 Pneumonia chest xrays gets classified into Viral , Bacterial or Normal
 
-when i passed an image of Pneumonial Bacterial Category
+when i passed an image that was of Bacterial Pneumonial Category
+
 <img src= "Result3.png" height = '500' width='900'>
 
+
 when i passed an image that was of normal category
+
 <img src= "Result2.png" height = '450' width='800'>
 
-when i passed an image that was of Pneumonial viral category
-<img src= "Result.png" height = '400' width='800'>
+
+when i passed an image that was of Viral Pneumonial category
+
+<img src= "Result.png" height = '450' width='800'>
 
 
 
